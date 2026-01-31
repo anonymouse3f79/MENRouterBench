@@ -1,0 +1,9 @@
+image_root: "./images"
+num_samples: 400
+seed: 42
+max_latency: 30.0
+concurrency: 5
+agent_server: "AgentApiServer"
+no_imu: False
+results_dir: "./results_task1"
+report_to: ["radar", "stdio", "txt"]
