@@ -21,14 +21,7 @@ pip install -r requirements.txt
 
 ## 🖼️ Data Preparation
 
-Please download the required image data from **(to be released)** and place them in the following directory:
-
-```latex
-./images
-```
-
-Make sure the final directory structure satisfies the image path requirements expected by the evaluation scripts.
-
+Please download the required data from **https://huggingface.co/datasets/anonymous10256sxwzd2/MenRouterBench**  and follow the instruction there.
 ---
 
 ## 🧠 VLM Server Description

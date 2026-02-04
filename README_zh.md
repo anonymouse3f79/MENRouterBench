@@ -14,13 +14,7 @@ pip install -r requirements.txt
 ---
 
 ## 🖼️ 数据准备
-请从 **（预留）** 下载所需的图像数据，并将其放置在如下目录中：
-
-```latex
-./images
-```
-
-确保最终的目录结构满足评测脚本对图像路径的要求。
+请从 **https://huggingface.co/datasets/anonymous10256sxwzd2/MenRouterBench** 并根据其中的引导放置数据。确保最终的目录结构满足评测脚本对图像路径的要求。
 
 ---
 
