@@ -22,6 +22,7 @@ pip install -r requirements.txt
 ## 🖼️ Data Preparation
 
 Please download the required data from **https://huggingface.co/datasets/anonymous10256sxwzd2/MenRouterBench**  and follow the instruction there.
+
 ---
 
 ## 🧠 VLM Server Description
